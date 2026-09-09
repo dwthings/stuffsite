@@ -1170,14 +1170,14 @@ header .navbar.sticky-header{
 	padding: 0 30px;
 	box-shadow: none;
 	outline: 0;
-	color: #707070;
+	color: #fff;
 }
 
 .newsletter-form .btn-subscribe{
 	width: 20%;
 	background: none;
 	border: none;
-	color: #345ce0;
+	color: #fff;
 	font-size: 40px;
 	text-align: right;
 	padding: 0 30px;
