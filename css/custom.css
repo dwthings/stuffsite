@@ -294,6 +294,7 @@ header .navbar.sticky-header{
 }
 
 .banner-content h2{
+	font-family: 'Tangerine', cursive;
 	font-size: 22px;
 	font-weight: 300;
 	color: #fff;
