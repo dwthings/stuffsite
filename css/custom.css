@@ -168,7 +168,7 @@ header.header{
 
 header .navbar{
 	padding: 0;
-	background: rgba(0,0,0,0.4);
+	background: rgba(0,0,0,0.6);
 	z-index: 40;
 	transition: all 0.3s;
 }
